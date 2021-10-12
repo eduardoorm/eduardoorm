@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Some of the things I've been doing recently:
+<li>Google DSC Lead for UNICA(21-22).</li>
 
 Here are some ideas to get you started: <br />
   Quick facts: <br />
