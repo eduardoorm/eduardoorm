@@ -11,4 +11,4 @@ Some of the things I've been doing recently:
   <li>😄 Pronouns: He/Him</li>
   
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?usernameeduardoorm)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoorm)](https://github.com/anuraghazra/github-readme-stats)
