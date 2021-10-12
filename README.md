@@ -10,3 +10,4 @@ Here are some ideas to get you started:
   📫 How to reach me: Tweet me. Bonus points if you'd like to chat in Portuguese or French.
   😄 Pronouns: He/Him
 
+ 
