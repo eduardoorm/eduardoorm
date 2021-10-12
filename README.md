@@ -10,5 +10,6 @@ Some of the things I've been doing recently:
   <li>📫 How to reach me: Tweet me. Bonus points if you'd like to chat in Portuguese or French.</li>
   <li>😄 Pronouns: He/Him</li>
   
+  <br />
  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoorm)](https://github.com/anuraghazra/github-readme-stats)
