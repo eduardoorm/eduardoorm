@@ -5,7 +5,7 @@ Some of the things I've been doing recently:
 <li>Github Campus Expert.</li> <br />
 
   Quick facts: <br />
-  <li>🐱‍💻 I'm currently mastering: programming interview skills and DSAs.</li>
+  <li>🐱‍💻 I'm currently mastering: programming interview skills.</li>
   <li>🤔 I’d could help you with: JS, React, Dart/Flutter and introductory ML (Python).
   <li>💬 Ask me about: coffee and the self improvement niche. </li>
   <li>📫 How to reach me: Tweet me.</li>
