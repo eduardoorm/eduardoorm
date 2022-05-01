@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 Some of the things I've been doing recently:
-<li>Google DSC Lead for UNICA(21-22).</li> <br />
+<li>Google DSC Lead for UNICA(21-22).</li> 
 <li>Github Campus Expert.</li> <br />
 
   Quick facts: <br />
