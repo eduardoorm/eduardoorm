@@ -2,6 +2,7 @@
 
 Some of the things I've been doing recently:
 <li>Google DSC Lead for UNICA(21-22).</li> <br />
+<li>Github Campus Expert.</li> <br />
 
   Quick facts: <br />
   <li>🐱‍💻 I'm currently mastering: programming interview skills and DSAs.</li>
