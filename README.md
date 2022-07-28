@@ -1,8 +1,8 @@
 ### Hello there 👋
 
 Some of the things I've been doing recently:
-<li>Google DSC Lead for UNICA (21-22).</li> 
-<li>Github Campus Expert.</li> <br />
+<li>💻Google DSC Lead for UNICA (21-22).</li> 
+<li>🚩Github Campus Expert.</li> <br />
 Interests: 
 <li>Working on Cloud computing and personal projects</li>
 <li>Currently learning Data Science fundamentals with Python</li>
