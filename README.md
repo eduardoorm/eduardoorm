@@ -18,9 +18,8 @@ const Eduardo= {
 
 - 📱 Passionate for learning all new tech related stuffs.
 
-- 🌱 I’m currently learning everything. 🤣
-
 - 🚩 GitHub Campus Expert.
+
 - 💻 GDG Lead Organizer.
 
 - 🥅 Google DSC Lead for UNICA (21-22).
