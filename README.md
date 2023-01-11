@@ -20,7 +20,7 @@ const Eduardo= {
 
 - 🌱 I’m currently learning everything. 🤣
 
-- 🚩 Github Campus Expert.
+- 🚩 GitHub Campus Expert.
 - 💻 GDG Lead Organizer.
 
 - 🥅 Google DSC Lead for UNICA (21-22).
