@@ -3,7 +3,7 @@
 ```javascript
 const Eduardo= {
   fullName: 'José Eduardo Ormeño Meneses',
-  age: 24,
+  age: 25,
   country: 'PE',
   birthday: '12/08/1999',
 }
